@@ -4,7 +4,7 @@ const history = [{
     accountNumber: 2254854309,
     bankName: "Zenith Bank",
     amount: 90000,
-    paymentStatus: "Sent"
+    paymentStatus: "Delivered"
 }, {
     accountName: "Owolabi Daniel",
     accountNumber: 7454854309,
@@ -28,5 +28,5 @@ const history = [{
     accountNumber: 2254814709,
     bankName: "First Bank",
     amount: 60000,
-    paymentStatus: "Sent"
+    paymentStatus: "Delivered"
 }];
